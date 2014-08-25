@@ -22,7 +22,10 @@ namespace Source_Control_Test
         //
         private void ButtonButton_Click ( object sender, EventArgs e )
         {
-            MessageBox.Show( "Hello world!" );
+            MessageBox.Show(    "Hello world!", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
         }
         //
     }
