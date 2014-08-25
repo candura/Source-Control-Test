@@ -26,6 +26,11 @@ namespace Source_Control_Test
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
+
+            MessageBox.Show(    "Goodbye world!", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
         }
         //
     }
