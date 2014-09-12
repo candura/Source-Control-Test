@@ -27,17 +27,7 @@ namespace Source_Control_Test
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
 
-            MessageBox.Show(    "Hello all!", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
             MessageBox.Show(    "Goodbye world!", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Goodbye all!", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
