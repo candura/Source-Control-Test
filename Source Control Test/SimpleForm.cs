@@ -37,6 +37,11 @@ namespace Source_Control_Test
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
 
+            MessageBox.Show(    "Hello all again and again!", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
+
             MessageBox.Show(    "Goodbye world!", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
@@ -48,6 +53,11 @@ namespace Source_Control_Test
                                 MessageBoxIcon.Information );
 
             MessageBox.Show(    "Goodbye all again!", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
+
+            MessageBox.Show(    "Goodbye all again and again!", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
