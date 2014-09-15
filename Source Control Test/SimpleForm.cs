@@ -63,6 +63,11 @@ namespace Source_Control_Test
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
 
+            MessageBox.Show(    "Development Add 8", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
+
             MessageBox.Show(    "StableRelease Add 1", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
