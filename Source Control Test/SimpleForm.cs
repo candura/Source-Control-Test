@@ -72,6 +72,11 @@ namespace Source_Control_Test
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
+
+            MessageBox.Show(    "StableRelease Add 3", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
             //
 
             //
