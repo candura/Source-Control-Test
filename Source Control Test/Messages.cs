@@ -15,16 +15,6 @@ namespace Source_Control_Test
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Development Add 2", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "StableRelease Add 1", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
         }
     }
 }
