@@ -27,6 +27,11 @@ namespace Source_Control_Test
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
+
+            MessageBox.Show(    "Fix 1", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
             //
 
             //
