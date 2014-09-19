@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Messages.cs" />
+    <Compile Include="Files\Messages.cs" />
     <Compile Include="SimpleForm.cs">
       <SubType>Form</SubType>
     </Compile>

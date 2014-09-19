@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Source_Control_Test
+namespace Source_Control_Test.Files
 {
     public static class Messages
     {
