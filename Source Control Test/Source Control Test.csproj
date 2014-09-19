@@ -45,10 +45,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Files\Messages.cs" />
-    <Compile Include="SimpleForm.cs">
+    <Compile Include="Forms\SimpleForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SimpleForm.Designer.cs">
+    <Compile Include="Forms\SimpleForm.Designer.cs">
       <DependentUpon>SimpleForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -62,7 +62,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="SimpleForm.resx">
+    <EmbeddedResource Include="Forms\SimpleForm.resx">
       <DependentUpon>SimpleForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
