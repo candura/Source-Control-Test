@@ -1,5 +1,4 @@
-﻿using Source_Control_Test.Files;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,21 +24,6 @@ namespace Source_Control_Test
         {
             //
             MessageBox.Show(    "Hello world!", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Development Add 1", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Development Add 3", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "StableRelease Add 1", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
