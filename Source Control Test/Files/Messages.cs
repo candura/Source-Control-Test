@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Source_Control_Test
+namespace Source_Control_Test.Files
 {
     public static class Messages
     {
@@ -17,6 +17,11 @@ namespace Source_Control_Test
                                 MessageBoxIcon.Information );
 
             MessageBox.Show(    "Development Add 1", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
+
+            MessageBox.Show(    "Development Add 2", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
