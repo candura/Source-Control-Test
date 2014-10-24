@@ -28,21 +28,6 @@ namespace Source_Control_Test.Forms
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Development Add 1", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Feature Add 1", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
-
-            MessageBox.Show(    "Feature Add 2", 
-                                "Information", 
-                                MessageBoxButtons.OK, 
-                                MessageBoxIcon.Information );
             //
 
             //
