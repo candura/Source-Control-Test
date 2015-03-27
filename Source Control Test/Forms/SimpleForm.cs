@@ -1,4 +1,5 @@
-﻿using Source_Control_Test.Files;
+﻿using Some_Library;
+using Source_Control_Test.Files;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -37,6 +38,13 @@ namespace Source_Control_Test.Forms
 
             //
             Messages.Show();
+            //
+
+            //
+            MessageBox.Show(    Custom.Generate(), 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
             //
         }
 
