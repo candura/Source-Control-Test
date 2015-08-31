@@ -29,6 +29,11 @@ namespace Source_Control_Test.Forms
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
+
+            MessageBox.Show(    "Development Change", 
+                                "Information", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Information );
             //
 
             //
