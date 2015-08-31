@@ -30,7 +30,7 @@ namespace Source_Control_Test.Forms
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
 
-            MessageBox.Show(    "Development Add 3", 
+            MessageBox.Show(    "StableRelease Change", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
