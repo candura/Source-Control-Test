@@ -16,7 +16,7 @@ namespace Source_Control_Test.Files
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
 
-            MessageBox.Show(    "Development Change", 
+            MessageBox.Show(    "Additional Change", 
                                 "Information", 
                                 MessageBoxButtons.OK, 
                                 MessageBoxIcon.Information );
